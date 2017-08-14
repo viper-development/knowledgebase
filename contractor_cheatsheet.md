@@ -39,6 +39,14 @@ VAT ID DE312932940
 On the invoice page, before sending it, please ensure you've added a link to your transferwise account or your bank account data under the `Notes` field.
 
 
+## Guidelines for calculating billable hours
+
+All the time that is spent working on the project, inclusive of chats and calls can be added to the billable hours for the day.
+
+Take note that the time which is added to the billable hours should be fully focussed, for example: if you are working in a non-contiguous block of time, the hours actually spent working on the project should be added to the billable hours and not the intervals which aren't spent contributing to the project.
+
+Things non-specific to the project should not be added to the billable hours, for example: learning time for general things. Learning time for project-specific things can be added to the billable hours.
+
 ## I want to learn stuff that is relevant for Viper Development!
 
 Just ask Lasse for educational budget. You will be expected to write a document like this and you will be paid for your time spending on an online course.
