@@ -29,7 +29,7 @@ Second thing on there on the left should be:
 Viper Development UG (haftungsbeschränkt)
 Haakestrasse 37
 Hamburg Hamburg  21075 
-VAT ID will be provided later
+VAT ID DE312932940
 ```
 
 Be sure to put payment instructions on the bill, e.g. a link to transferwise or your bank account data!
