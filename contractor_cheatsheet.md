@@ -22,8 +22,12 @@ Ask Lasse for a freshbooks account. You can (but don’t have to) use Freshbooks
 
 TODO, we might migrate from freshbooks so this will be redone at some point.
 
-At the top there has to be YOUR name and address, not viperdev or anything. Freshbooks might do this wrong by default.
-Second thing on there on the left should be:
+Before generating an invoice, in the top right corner, click on the `Settings` tab. This should bring you to the `Company Profile` page. Here, enter all of YOUR details (name, country, base currency: euro, address, etc,.).
+
+Head on over to the `People` tab next, under `Clients` look for `Viper development` and click the edit button which appears on the table. Cross-check all the details of `Viper Development` are as shown below (this should be auto generated for the most part - Address, Tax Name, Tax Number, etc,.). 
+
+To generate an invoice, simply head on over to `Time Tracking`, make sure all the required hours are `Mark as Unbilled` and click `Generate Invoice`, which appears under the `Time Tracking Tab`.
+
 
 ```
 Viper Development UG (haftungsbeschränkt)
@@ -32,7 +36,8 @@ Hamburg Hamburg  21075
 VAT ID DE312932940
 ```
 
-Be sure to put payment instructions on the bill, e.g. a link to transferwise or your bank account data!
+On the invoice page, before sending it, please ensure you've added a link to your transferwise account or your bank account data under the `Notes` field.
+
 
 ## I want to learn stuff that is relevant for Viper Development!
 
