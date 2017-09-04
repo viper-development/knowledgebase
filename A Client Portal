@@ -1,0 +1,32 @@
+# What we would need on a client portal
+
+### Project phases
+* you must be able to split a project into phases and define for each phase the milestones/features to be implemented
+* possibility to mark the phases as completed
+* client can review/add comments to each milestone
+
+organised as a list of phases that you can expand to see the milestones in each phase and how many are completed
+UX: the phase you are currently working on is already expanded
+
+### Team 
+* a profile for each team member - developer, product/project manager, general business support (Lasse)
+* each profile has occupation, email, phone number (if needed), timezone (important for calls for example)
+
+It is important for the client to associate faces with the people, to know exactly who is working on what and to have the trust that comes with profiles and all that. 
+
+### Bill area
+Maybe here we can bill through a third party software and just show a list with the bills that have been recorded for that client, mark them as paid and show the total invested so far.
+I believe financial transparency offers a sense of control and trust.
+
+### Files area
+Here we can have some folders and a clear split:
+* contract
+* invoices
+* documents uploaded by the client
+* files produced during the project - e.g. designs, notes, feedback, requirements, etc
+
+### Meeting request*
+* possibility to add a meeting request by either sides, needing confirmation from both to make communication less complicated
+
+*nice to have
+
